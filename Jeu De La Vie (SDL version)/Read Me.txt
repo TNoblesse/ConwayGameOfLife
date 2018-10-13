@@ -1,0 +1,5 @@
+Ce programme modelise le principe de "Je de la vie" poser par John Horton Conway en 1970
+Pour utiliser ce programme vous pouvez remplir la grille en cliquant sur la/les cellules que vous voulez animer par le boutton gauche de votre souris 
+Si vous trompez dans le remplissage d'une ou plusieurs cellules vous pouvez toujours annuler l'animation de la case en cliquant encore une fois sur la case 
+Quand vous terminez le remplissage de la grille vous pouvez passer à la génération suivante en cliquant sur le boutton droit de la souris
+Dans chaque génération vous avez toujours la possibliter d'animer ou tuer un cellule après chaque passage à la génération suivante, sinon vous pouvez continuer à cliquer sur le boutton droit de la souris chaque fois pour passer à la génération suivante

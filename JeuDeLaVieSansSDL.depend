@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1482340122 source:c:\users\mbamouh\desktop\jeudelaviesanssdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Fonctions.h"
+
+1482340122 source:c:\users\mbamouh\desktop\jeudelaviesanssdl\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1482340122 c:\users\mbamouh\desktop\jeudelaviesanssdl\fonctions.h
+
+1482342842 source:c:\users\mbamouh\desktop\projet c-jeudelaviesanssdl\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1482342842 source:c:\users\mbamouh\desktop\projet c-jeudelaviesanssdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Fonctions.h"
+
+1482435394 c:\users\mbamouh\desktop\projet c-jeudelaviesanssdl\fonctions.h
+
+1483807178 source:c:\users\mbamouh\desktop\projet c-jeudelavie par bamouh mohamed et adam saddiki\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1483809094 source:c:\users\mbamouh\desktop\projet c-jeudelavie par bamouh mohamed et adam saddiki\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Fonctions.h"
+
+1483807257 c:\users\mbamouh\desktop\projet c-jeudelavie par bamouh mohamed et adam saddiki\fonctions.h
+
